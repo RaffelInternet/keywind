@@ -3,6 +3,10 @@
     {
       "name": "keywind",
       "types": ["login"]
+    },
+    {
+      "name": "keywind",
+      "types": ["email"]
     }
   ]
 }

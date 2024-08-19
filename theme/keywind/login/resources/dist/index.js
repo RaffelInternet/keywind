@@ -1,1 +1,1 @@
-import{m as o}from"./assets/module.esm-9a996e1c.js";window.Alpine=o;o.start();
+import{m as o}from"./assets/module.esm-9a996e1c.js";window.Alpine=o;o.start();const t=window.location.hostname.includes("almig.de")&&!window.location.hostname.includes("dev.almig.de"),c=t?"https://static.almig.de/cookie-consent/cookie-consent-loader.js":"https://static.dev.almig.de/cookie-consent/cookie-consent-loader.js",e=document.createElement("script");e.src=c;e.async=!0;document.head.appendChild(e);
